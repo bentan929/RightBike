@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "438491856505",
+    "firebase_url": "https://right-bike.firebaseio.com",
+    "project_id": "right-bike",
+    "storage_bucket": "right-bike.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438491856505:android:f4dd3c673f072029",
+        "android_client_info": {
+          "package_name": "rightbike.com.example.bentan.rightbike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438491856505-ccp3j8t0ga83ui9380sgb9ihb8nmiaka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rightbike.com.example.bentan.rightbike",
+            "certificate_hash": "1ad70b25cb64ac4f1a10b29ff2c109871df09975"
+          }
+        },
+        {
+          "client_id": "438491856505-t30lbse0hk5adguv4mlgf96nedegf3m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzOOQUXmsmSK7S3Pu3UxsBtzQl1jfD6J4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438491856505-t30lbse0hk5adguv4mlgf96nedegf3m3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Right Bike Rental System</string>
+    <string name="namehint">Name</string>
+    <string name="matricshint">Matrics No</string>
+    <string name="passwordhint">Password</string>
+    <string name="phonehint">Phone No.</string>
+    <string name="regbtn">Register</string>
+    <string name="slogan">Rent a bike anytime anywhere</string>
+    <string name="btnSignUp">Sign Up</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnLogout">LOGOUT</string>
+    <string name="aboutUs">ABOUT US</string>
+    <string name="Unlock">Unlock a bike now!</string>
+    <string name="noBike">You have not rented any bicycles yet</string>
+    <string name="BikeModelOne">BMX RB1K</string>
+    <string name="bicycleModel">Bicycle Model</string>
+    <string name="rentalPeriod">Rental Period</string>
+    <string name="renew">Renew</string>
+    <string name="btnRenew">Renew</string>
+    <string name="textAboutUs">The Right Bike Store provides bicycles rental services for UTHM students. We strive to provide the best bike rental experience.</string>
+    <string name="date">Date</string>
+
+
+</resources>
